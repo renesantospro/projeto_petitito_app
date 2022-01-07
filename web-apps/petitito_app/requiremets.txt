@@ -1,4 +1,0 @@
-wget
-pdf_plumber
-Pandas
-Flask
